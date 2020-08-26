@@ -1,0 +1,103 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+EntityDesktopSqlSvr
+</name>
+</assembly>
+<members>
+<member name="T:EntityDesktopSqlSvr.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:EntityDesktopSqlSvr.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:EntityDesktopSqlSvr.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:EntityDesktopSqlSvr.Form1.ButtonQuery_Click(System.Object,System.EventArgs)">
+ <summary>商品を全件表示します。</summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:EntityDesktopSqlSvr.Form1.ButtonInsert_Click(System.Object,System.EventArgs)">
+ <summary>テキストボックスによる内容で商品を追加します。</summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:EntityDesktopSqlSvr.Form1.ButtonUpdate_Click(System.Object,System.EventArgs)">
+ <summary>商品ID(NumId)による商品の更新を行います。</summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:EntityDesktopSqlSvr.Form1.ButtonDelete_Click(System.Object,System.EventArgs)">
+ <summary>商品ID(NumId)による商品を削除します。</summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="T:EntityDesktopSqlSvr.LastException">
+ <summary>最新の例外格納クラス</summary>
+ <remarks></remarks>
+</member>
+<member name="M:EntityDesktopSqlSvr.LastException.SetLastException(System.String,System.String,System.Exception)">
+ <summary>最新の例外情報をセットします</summary>
+ <param name="method">例外のメソッド名</param>
+ <param name="param">例外の発生したメソッドが引き受けた引数、参考値など</param>
+ <param name="ex">Exceptionまたは派生クラス</param>
+</member>
+<member name="M:EntityDesktopSqlSvr.LastException.LogWrite">
+ <summary>例外ログの書き込み</summary>
+ <remarks></remarks>
+</member>
+<member name="P:EntityDesktopSqlSvr.LastException.LastExcepTitle">
+ <summary>最新の例外のクラス名が格納されます</summary>
+ <returns></returns>
+</member>
+<member name="P:EntityDesktopSqlSvr.LastException.LastExcepPlace">
+ <summary>最新の例外のメソッド名が格納されます</summary>
+ <returns></returns>
+</member>
+<member name="P:EntityDesktopSqlSvr.LastException.LastExcepParam">
+ <summary>最新の例外のパラメータが格納されます
+ <para>(メソッドに与えた引数や参考になる情報など)</para></summary>
+ <returns></returns>
+</member>
+<member name="P:EntityDesktopSqlSvr.LastException.LastExcepMessage">
+ <summary>最新の例外のメッセージが格納されます</summary>
+ <returns></returns>
+</member>
+<member name="P:EntityDesktopSqlSvr.LastException.LastExcepTrace">
+ <summary>最新の例外のスタックトレースが格納されます</summary>
+ <returns></returns>
+</member>
+<member name="T:EntityDesktopSqlSvr.ShohinContext">
+ <summary>商品データ/コンテキスト</summary>
+ <remarks>NuGetパッケージ: Install-Package EntityFramework -Version 6.3.0</remarks>
+</member>
+<member name="M:EntityDesktopSqlSvr.ShohinContext.#ctor">
+ <summary>App.configやWeb.configの接続文字列により接続する方法</summary>
+ <remarks></remarks>
+</member>
+<member name="M:EntityDesktopSqlSvr.ShohinContext.#ctor(System.Data.Common.DbConnection)">
+ <summary>App.configやWeb.configを使わずこのコンストラクタの呼び出し側から接続文字列を指定する方法
+ (DbConnectionクラスのConnectionStringプロパティに接続文字列を代入したものを引数としてください。)</summary>
+ <param name="Cnstring"></param>
+ <remarks></remarks>
+</member>
+<member name="T:EntityDesktopSqlSvr.Configuration">
+ <summary>データベース自動マイグレーションのための設定クラス</summary>
+ <remarks></remarks>
+</member>
+<member name="T:EntityDesktopSqlSvr.ShohinEntity">
+ <summary>Plain Old CLR Object(POCO)永続化クラス</summary>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

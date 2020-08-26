@@ -1,0 +1,16 @@
+C:\Workspace\DotNet\EntityDesktopSqlSvr\EntityDesktopSqlSvr\bin\Debug\EntityDesktopSqlSvr.exe.config
+C:\Workspace\DotNet\EntityDesktopSqlSvr\EntityDesktopSqlSvr\bin\Debug\EntityDesktopSqlSvr.exe
+C:\Workspace\DotNet\EntityDesktopSqlSvr\EntityDesktopSqlSvr\bin\Debug\EntityDesktopSqlSvr.pdb
+C:\Workspace\DotNet\EntityDesktopSqlSvr\EntityDesktopSqlSvr\bin\Debug\EntityDesktopSqlSvr.xml
+C:\Workspace\DotNet\EntityDesktopSqlSvr\EntityDesktopSqlSvr\bin\Debug\EntityFramework.dll
+C:\Workspace\DotNet\EntityDesktopSqlSvr\EntityDesktopSqlSvr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Workspace\DotNet\EntityDesktopSqlSvr\EntityDesktopSqlSvr\bin\Debug\EntityFramework.xml
+C:\Workspace\DotNet\EntityDesktopSqlSvr\EntityDesktopSqlSvr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Workspace\DotNet\EntityDesktopSqlSvr\EntityDesktopSqlSvr\obj\Debug\EntityDesktopSqlSvr.Form1.resources
+C:\Workspace\DotNet\EntityDesktopSqlSvr\EntityDesktopSqlSvr\obj\Debug\EntityDesktopSqlSvr.Resources.resources
+C:\Workspace\DotNet\EntityDesktopSqlSvr\EntityDesktopSqlSvr\obj\Debug\EntityDesktopSqlSvr.vbproj.GenerateResource.cache
+C:\Workspace\DotNet\EntityDesktopSqlSvr\EntityDesktopSqlSvr\obj\Debug\EntityDesktopSqlSvr.vbproj.CoreCompileInputs.cache
+C:\Workspace\DotNet\EntityDesktopSqlSvr\EntityDesktopSqlSvr\obj\Debug\EntityDesktopSqlSvr.vbproj.CopyComplete
+C:\Workspace\DotNet\EntityDesktopSqlSvr\EntityDesktopSqlSvr\obj\Debug\EntityDesktopSqlSvr.exe
+C:\Workspace\DotNet\EntityDesktopSqlSvr\EntityDesktopSqlSvr\obj\Debug\EntityDesktopSqlSvr.xml
+C:\Workspace\DotNet\EntityDesktopSqlSvr\EntityDesktopSqlSvr\obj\Debug\EntityDesktopSqlSvr.pdb
