@@ -1,7 +1,7 @@
 ﻿Imports System.Data.Entity
 
 ''' <summary>商品データ/コンテキスト</summary>
-''' <remarks>NuGetパッケージ: Install-Package EntityFramework -Version 6.3.0</remarks>
+''' <remarks>NuGetパッケージ: Install-Package EntityFramework -Version 6.4.4</remarks>
 Public Class ShohinContext
     Inherits DbContext
 

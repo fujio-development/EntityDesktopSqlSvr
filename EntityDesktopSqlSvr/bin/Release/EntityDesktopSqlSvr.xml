@@ -79,7 +79,7 @@ EntityDesktopSqlSvr
 </member>
 <member name="T:EntityDesktopSqlSvr.ShohinContext">
  <summary>商品データ/コンテキスト</summary>
- <remarks>NuGetパッケージ: Install-Package EntityFramework -Version 6.3.0</remarks>
+ <remarks>NuGetパッケージ: Install-Package EntityFramework -Version 6.4.4</remarks>
 </member>
 <member name="M:EntityDesktopSqlSvr.ShohinContext.#ctor">
  <summary>App.configやWeb.configの接続文字列により接続する方法</summary>
