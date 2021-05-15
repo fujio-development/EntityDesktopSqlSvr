@@ -14,3 +14,4 @@ C:\Workspace\DotNet\EntityDesktopSqlSvr\EntityDesktopSqlSvr\obj\Release\EntityDe
 C:\Workspace\DotNet\EntityDesktopSqlSvr\EntityDesktopSqlSvr\obj\Release\EntityDesktopSqlSvr.exe
 C:\Workspace\DotNet\EntityDesktopSqlSvr\EntityDesktopSqlSvr\obj\Release\EntityDesktopSqlSvr.xml
 C:\Workspace\DotNet\EntityDesktopSqlSvr\EntityDesktopSqlSvr\obj\Release\EntityDesktopSqlSvr.pdb
+C:\Workspace\DotNet\EntityDesktopSqlSvr\EntityDesktopSqlSvr\obj\Release\EntityDesktopSqlSvr.vbprojAssemblyReference.cache
